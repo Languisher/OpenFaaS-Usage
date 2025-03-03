@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenFaaS Function Build & Deploy Script
 
 This repository contains tools for building and deploying OpenFaaS functions, with a focus on automating the build and deployment process for multiple functions defined in a single `stack.yaml` file.
@@ -166,3 +167,6 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 ## License
 
 [Your License Here]
+=======
+# OpenFaaS-Usage
+>>>>>>> e15d7c9997e7cbcea5ff62b0319cadccca5c38bb
